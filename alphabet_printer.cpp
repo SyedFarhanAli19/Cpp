@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
     int n;
+    cout << "Enter the aplphabets u want " << endl;
     cin>>n;
     int i=1;
     while (i<=n)
